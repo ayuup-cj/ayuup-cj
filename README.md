@@ -5,7 +5,6 @@
 ## 📋 Table of Contents
 - [About Me](#about-me)
 - [Technologies & Tools](#-technologies--tools)
-- [GitHub Stats](#-github-stats)
 - [Current Projects](#-current-projects)
 - [Connect With Me](#-connect-with-me)
 - [Social Profiles](#-social-profiles)
