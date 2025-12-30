@@ -32,16 +32,7 @@ I think I am funny
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
-## 📊 GitHub Stats
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![Ayuub's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuup-cj&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuup-cj&layout=compact&theme=radical&hide_border=true) |
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayuup-cj&theme=radical&hide_border=true)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ayuup-cj&theme=radical&no-frame=true)
 
 ## 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=ayuup-cj&color=blueviolet)
