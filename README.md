@@ -66,7 +66,7 @@ I think I am funny
 <!-- Add your blog posts here or use GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2026
 - [x] Start GitHub Profile README
 - [x] Complete Loan Management System
 - [ ] Contribute to 5 open source projects
