@@ -80,6 +80,6 @@ I think I am funny
 If you like what I do, consider giving my repositories a star!
 
 [![GitHub followers](https://img.shields.io/github/followers/ayuup-cj?label=Follow&style=social)](https://github.com/ayuup-cj)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://x.com/Utred_anza)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://x.com/)
 
 *Last Updated: December 2024*
