@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ayuub Abdirzak!
 
-### A passionate frontend developer from Somalia 🇸🇴
+### A passionate fullstack developer from Somalia 🇸🇴
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
